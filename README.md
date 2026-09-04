@@ -1,6 +1,6 @@
 # Engineering Archive — Personal Portfolio Site
 
-**[Live site → https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)**
+**[Live site →https://rak-pozareny.github.io/Rak-s-Archive/ ](https://rak-pozareny.github.io/Rak-s-Archive/)**
 _(fill in your actual username/repo once pushed — see "Deploying" below)_
 
 A journal-style engineering portfolio: a scrollable public archive of project
