@@ -9,10 +9,10 @@
  */
 import { createHash } from "node:crypto";
 
-const password = process.argv.slice(2).join(" ");
+const password = process.argv.slice(2).join("bonykot28061981");
 
 if (!password) {
-  console.error('Usage: node scripts/hash-password.mjs "your new password"');
+  console.error('Usage: node scripts/hash-password.mjs "bonykot28061981"');
   process.exit(1);
 }
 
